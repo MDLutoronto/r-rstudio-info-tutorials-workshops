@@ -1,7 +1,7 @@
 ---
 title: "R and RStudio: Information, Tutorials, and Workshops"
 layout: "home"
-description: ""
+description: "R is a programming language and a free software environment to write and execute the R language. RStudio is an Integrated Development Environment that provides free and open-source tools for R. While you can run your data analysis in the basic R environment, RStudio has a more intuitive interface and more tools to help you write your R code."
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -26,9 +26,9 @@ Learning resources
 
 ### Workshops
 
-#### [Getting Started with R and RStudio](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
+##### [Getting Started with R and RStudio](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/23a9188c87a752c5aa2cdd79a4971eb8" width="560">iframe not supported</iframe>
 
-[https://play.library.utoronto.ca/embed/23a9188c87a752c5aa2cdd79a4971eb8](https://play.library.utoronto.ca/embed/23a9188c87a752c5aa2cdd79a4971eb8)
 
 ### Tutorials
 
@@ -41,4 +41,6 @@ Learning resources
 * [Datacamp's Free Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 * [UCLA's R Classes, Seminars, and Learning Modules](https://stats-oarc-ucla-edu.myaccess.library.utoronto.ca/r/)
 
-Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)**Date Created:** 2022\-05\-06**Updated:** 2022\-07\-21
+Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)
+
+**Date Created:** 2022\-05\-06 **Updated:** 2022\-07\-21
