@@ -44,6 +44,6 @@ Learning resources
 * [Datacamp's Free Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 * [UCLA's R Classes, Seminars, and Learning Modules](https://stats.oarc.ucla.edu/r/)
 
-Technique: [Converting data formats](/technique/converting-data-formats), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)
+**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
 
 **Date Created:** 2022\-05\-06 **Updated:** 2022\-07\-21
