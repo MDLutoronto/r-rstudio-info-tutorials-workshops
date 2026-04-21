@@ -6,6 +6,7 @@ permalink: "/"  #! Remove this if not the homepage
 maintainer:
  - name: Nadia Muhe
    link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2022-05-06
 ---
 
 # R and RStudio: Information, Tutorials, and Workshops
@@ -25,7 +26,7 @@ Learning resources
 
 ### Online courses
 
-* [Introduction to R](http://q.utoronto.ca/enroll/ET679B), an online, self\-paced course administered through Quercus
+* [Introduction to R](http://q.utoronto.ca/enroll/ET679B), an online, self-paced course administered through Quercus
 
 ### Workshops
 
@@ -37,13 +38,11 @@ Learning resources
 
 * [Introduction to R](https://mdl.library.utoronto.ca/technology/tutorials/introduction-r)
 * [Getting Started with R and RStudio](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-r-and-r-studio)
-* [COVID\-19 Data in R](https://mdl.library.utoronto.ca/technology/tutorials/covid-19-data-r)
+* [COVID-19 Data in R](https://mdl.library.utoronto.ca/technology/tutorials/covid-19-data-r)
 
 ### Additional resources
 
 * [Datacamp's Free Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
 * [UCLA's R Classes, Seminars, and Learning Modules](https://stats.oarc.ucla.edu/r/)
 
-**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
-
-**Date Created:** 2022\-05\-06 **Updated:** 2022\-07\-21
+**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
