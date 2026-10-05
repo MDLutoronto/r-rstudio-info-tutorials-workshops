@@ -18,7 +18,7 @@ Getting started
 
 * [Download R](http://cran.r-project.org/mirrors.html)
 * Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-* Follow this [guide](http://mdl.library.utoronto.ca/technology/tutorials/getting-started-r-and-r-studio) for additional instructions to get started with R and RStudio
+* Follow this [guide](https://mdlutoronto.github.io/r-studio-getting-started/) for additional instructions to get started with R and RStudio
 * See below for course, workshop and tutorials to get an introduction to R
 
 Learning resources
@@ -36,9 +36,9 @@ Learning resources
 
 ### Tutorials
 
-* [Introduction to R](https://mdl.library.utoronto.ca/technology/tutorials/introduction-r)
-* [Getting Started with R and RStudio](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-r-and-r-studio)
-* [COVID-19 Data in R](https://mdl.library.utoronto.ca/technology/tutorials/covid-19-data-r)
+* [Introduction to R](https://mdlutoronto.github.io/r-intro/)
+* [Getting Started with R and RStudio](https://mdlutoronto.github.io/r-studio-getting-started/)
+* [COVID-19 Data in R](https://mdlutoronto.github.io/r-covid19-data/)
 
 ### Additional resources
 
